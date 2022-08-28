@@ -10,7 +10,7 @@ The experiment results of comparing MAPS, JTT and SMOTE are under folder "MAPS_r
 
 
 ## Data
-Data size is big, so all data is available in https://drive.google.com/drive/folders/1-m34KJz5bRQ-QO3N5lefu9axPFlFEDJ-?usp=sharing.
+Data size is big, so all data is stored in https://drive.google.com/drive/folders/1-m34KJz5bRQ-QO3N5lefu9axPFlFEDJ-?usp=sharing.
 
 ### Kaggle Data
 | Name               | Bank_marketing | Hotel Booking | Job Change | Spam Email | Water Quality |
