@@ -6,7 +6,7 @@ This repository contains experimemnt data information and evaluation code for pa
 The experiment results of comparing BGMD and EXPLAIN are under folder "BGMD_result".
 
 ### Mispredicted Area UPweight Sampling (MAPS)
-The experiment results of comparing MAPS, JTT and SMOTE are under folder "BGMD_result".
+The experiment results of comparing MAPS, JTT and SMOTE are under folder "MAPS_result".
 
 
 ## Data
