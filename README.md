@@ -15,3 +15,10 @@ All data is available in https://drive.google.com/drive/folders/1-m34KJz5bRQ-QO3
 |--------------------|----------------|---------------|------------|------------|
 | Number of features |                |               |            |            |         
 | Instance number    |                |               |            |            |             
+
+### Bug report close time prediction data
+
+| Name               | BRCTP |
+|--------------------|-------|
+| Number of features |       |
+| Instance number    |       |
