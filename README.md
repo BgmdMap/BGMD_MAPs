@@ -15,21 +15,21 @@ Data size is big, so all data is stored in https://drive.google.com/drive/folder
 ### Kaggle Data
 | Name               | Bank_marketing | Hotel Booking | Job Change | Spam Email | Water Quality |
 |--------------------|----------------|---------------|------------|------------|---------------|
-| Number of features |                |               |            |            |               |
-| Instance number    |                |               |            |            |               |
+| Number of features |      20        |    59         | 13         |   100      |       9       |
+| Instance number    |        6,797   |      7,135    |   5,748    |    9,000   |       652     |
 
 ### Merge conflict data
 
 | Name               | Ruby | Python | Java | PHP |
 |--------------------|----------------|---------------|------------|------------|
-| Number of features |                |               |            |            |         
-| Instance number    |                |               |            |            |             
+| Number of features |      28        |       28      |     28     |   28       |         
+| Instance number    |       40,129   |       49,453  | 26,699     |      50,342  |             
 
 ### Bug report close time prediction data
 
 | Name               | BRCTP |
 |--------------------|-------|
-| Number of features |       |
-| Instance number    |       |
+| Number of features |   21  |
+| Instance number    |  1,481|
 
 
