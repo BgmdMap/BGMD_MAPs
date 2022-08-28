@@ -8,3 +8,10 @@ All data is available in https://drive.google.com/drive/folders/1-m34KJz5bRQ-QO3
 |--------------------|----------------|---------------|------------|------------|---------------|
 | Number of features |                |               |            |            |               |
 | Instance number    |                |               |            |            |               |
+
+### Merge conflict data
+
+| Name               | Ruby | Python | Java | PHP |
+|--------------------|----------------|---------------|------------|------------|
+| Number of features |                |               |            |            |         
+| Instance number    |                |               |            |            |             
