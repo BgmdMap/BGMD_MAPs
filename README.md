@@ -5,7 +5,7 @@ This repository contains experimemnt data information and evaluation code for pa
 ### Bias Guided Misprediction Diagnoser (BGMD) 
 The experiment results of comparing BGMD and EXPLAIN are under folder "BGMD_result".
 
-### Mispredicted Area UPweight Sampling 
+### Mispredicted Area UPweight Sampling (MAPS)
 The experiment results of comparing MAPS, JTT and SMOTE are under folder "BGMD_result".
 
 
