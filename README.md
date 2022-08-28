@@ -1,3 +1,10 @@
 # BGMD_MAPs
 Bias Guided Misprediction Explanation
-# All data are available at 
+# Data
+All data is available in https://drive.google.com/drive/folders/1-m34KJz5bRQ-QO3N5lefu9axPFlFEDJ-?usp=sharing
+
+### Kaggle Data
+| Name               | Bank_marketing | Hotel Booking | Job Change | Spam Email | Water Quality |
+|--------------------|----------------|---------------|------------|------------|---------------|
+| Number of features |                |               |            |            |               |
+| Instance number    |                |               |            |            |               |
