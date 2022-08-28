@@ -16,7 +16,7 @@ Data size is big, so all data is stored in https://drive.google.com/drive/folder
 | Name               | Bank_marketing | Hotel Booking | Job Change | Spam Email | Water Quality |
 |--------------------|----------------|---------------|------------|------------|---------------|
 | Number of features |      20        |    59         | 13         |   100      |       9       |
-| Instance number    |        6,797   |      7,135    |   5,748    |    9,000   |       652     |
+| Instance number    |        6,797   |      7,135    |   5,748    |    9,000   |       5,940   |
 
 ### Merge conflict data
 
