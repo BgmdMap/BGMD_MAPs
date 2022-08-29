@@ -15,12 +15,6 @@ The experiment results of comparing MAPS, JTT and SMOTE are under folder "MAPS_r
 ## Data
 Data size is big, so all data is stored in https://drive.google.com/drive/folders/1-m34KJz5bRQ-QO3N5lefu9axPFlFEDJ-?usp=sharing. We used five fold cross validation using below datasets (80%-train, 20%-test) and reports median number in the paper.
 
-### Kaggle Data
-| Name               | Bank_marketing | Hotel Booking | Job Change | Spam Email | Water Quality |
-|--------------------|----------------|---------------|------------|------------|---------------|
-| Number of features |      20        |    59         | 13         |   100      |       9       |
-| Instance number    |        6,797   |      7,135    |   5,748    |    9,000   |       5,940   |
-
 ### Merge conflict data
 
 | Name               | Ruby | Python | Java | PHP |
@@ -34,5 +28,13 @@ Data size is big, so all data is stored in https://drive.google.com/drive/folder
 |--------------------|-------|
 | Number of features |   21  |
 | Instance number    |  1,481|
+
+### Kaggle Data
+| Name               | Bank_marketing | Hotel Booking | Job Change | Spam Email | Water Quality |
+|--------------------|----------------|---------------|------------|------------|---------------|
+| Number of features |      20        |    59         | 13         |   100      |       9       |
+| Instance number    |        6,797   |      7,135    |   5,748    |    9,000   |       5,940   |
+
+
 
 
