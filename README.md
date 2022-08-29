@@ -8,6 +8,9 @@ The experiment results of comparing BGMD and EXPLAIN are under folder "BGMD_resu
 ### Mispredicted Area UPweight Sampling (MAPS)
 The experiment results of comparing MAPS, JTT and SMOTE are under folder "MAPS_result".
 
+## Model parameters
+
+
 
 ## Data
 Data size is big, so all data is stored in https://drive.google.com/drive/folders/1-m34KJz5bRQ-QO3N5lefu9axPFlFEDJ-?usp=sharing. We used five fold cross validation using below datasets (80%-train, 20%-test) and reports median number in the paper.
