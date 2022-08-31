@@ -1,5 +1,5 @@
 # Leveraging Feature Bias for Scalable Misprediction Explanation of Machine Learning Models
-This repository contains experimemnt data information and evaluation code for paper "Leveraging Feature Bias for Scalable Misprediction Explanation of Machine Learning Models". Here we present the evaluation data details and experiment results in Jupyternote books.
+This repository contains experimental data information and evaluation code for the paper "Leveraging Feature Bias for Scalable Misprediction Explanation of Machine Learning Models". Here, we present the details of the evaluation data and experimental results in Jupyter notebooks for easy reading.
 
 ## Experiment results
 ### Bias Guided Misprediction Diagnoser (BGMD) 
